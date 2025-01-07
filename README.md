@@ -1,5 +1,7 @@
 pthreads-win32-prebuilt
 =======================
+https://sourceware.org/pub/pthreads-win32/sources/pthreads-w32-2-9-1-release/
+
 ### CMake
 - [obs-studio/deps/w32-pthreads at master · obsproject/obs-studio](https://github.com/obsproject/obs-studio/tree/master/deps/w32-pthreads)
 - [jwinarske/pthreads4w: Builds Windows Native via CMake](https://github.com/jwinarske/pthreads4w)
